@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4db60495-69f7-42da-9f63-718faa8805dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2kRNazb1LLwNTm3rBkWAutOueCL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Jacob Ndifreke/Desktop/Test Automation Task/AmazonCheckoutFrameworkTask/testng.xml.executor": "Run",
+    "TestNG.TestCase1.executor": "Run",
+    "TestNG.TestCasesExecution.CarRentalPageEvents.executor": "Run",
+    "TestNG.TestCasesExecution.HotelSearchAndValidationEvents.executor": "Run",
+    "TestNG.TestCasesExecution.searchFlightByDestinationAndDate.executor": "Run",
+    "TestNG.TestCasesExecution.searchFlightByDestinationDateAndClass.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Jacob Ndifreke/Desktop/Test Automation Task/AmazonCheckoutFrameworkTask/src/test/java",
+    "last_opened_file_path": "C:/Users/Jacob Ndifreke/Desktop/Test Automation Task/ExpediaTaskFrameworkTask",
+    "onboarding.tips.debug.path": "C:/Users/Jacob Ndifreke/Desktop/Test Automation Task/AmazonCheckoutFrameworkTask/src/main/java/AmazonCheckoutFramework/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pageEvents" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCasesExecution.searchFlightByDestinationDateAndClass">
+    <configuration name="C:/Users/Jacob Ndifreke/Desktop/Test Automation Task/AmazonCheckoutFrameworkTask/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonCheckoutFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCasesExecution.CarRentalPageEvents" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonCheckoutFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="qa.tests.TestCasesExecution" />
+      <option name="METHOD_NAME" value="CarRentalPageEvents" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCasesExecution.HotelSearchAndValidationEvents" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonCheckoutFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="qa.tests.TestCasesExecution" />
+      <option name="METHOD_NAME" value="HotelSearchAndValidationEvents" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCasesExecution.searchFlightByDestinationAndDate" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonCheckoutFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="qa.tests.TestCasesExecution" />
+      <option name="METHOD_NAME" value="searchFlightByDestinationAndDate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCasesExecution.searchFlightByDestinationDateAndClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonCheckoutFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="qa.tests.TestCasesExecution" />
+      <option name="METHOD_NAME" value="searchFlightByDestinationDateAndClass" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCasesExecution.searchFlightByDestinationDateAndClass" />
+        <item itemvalue="TestNG.TestCasesExecution.searchFlightByDestinationAndDate" />
+        <item itemvalue="TestNG.TestCasesExecution.CarRentalPageEvents" />
+        <item itemvalue="TestNG.TestCasesExecution.HotelSearchAndValidationEvents" />
+        <item itemvalue="TestNG.C:/Users/Jacob Ndifreke/Desktop/Test Automation Task/AmazonCheckoutFrameworkTask/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4db60495-69f7-42da-9f63-718faa8805dd" name="Changes" comment="" />
+      <created>1723242496543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723242496543</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.reactivex.rxjava3:rxjava" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AutomationFramework/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
