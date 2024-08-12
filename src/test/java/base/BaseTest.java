@@ -30,7 +30,7 @@ public class BaseTest {
 
     @BeforeTest
     public void beforeTestMethod(){
-        sparkReporter = new ExtentSparkReporter(System.getProperty("user.dir") + File.separator + "reports" + File.separator + "AmazonTestAutomationTaskReport.html");
+        sparkReporter = new ExtentSparkReporter(System.getProperty("user.dir") + File.separator + "reports" + File.separator + "ExpediaTaskReport.html");
         extent = new ExtentReports();
         extent.attachReporter(sparkReporter);
         sparkReporter.config().setTheme(Theme.STANDARD);

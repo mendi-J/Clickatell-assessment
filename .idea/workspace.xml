@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4db60495-69f7-42da-9f63-718faa8805dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/clickatell-tasks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/clickatell-tasks.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/AmazonTestAutomationTaskReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/AmazonTestAutomationTaskReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageEvents/HotelSearchAndValidationEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageEvents/HotelSearchAndValidationEvents.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +47,7 @@
     "TestNG.TestCase1.executor": "Run",
     "TestNG.TestCasesExecution.CarRentalPageEvents.executor": "Run",
     "TestNG.TestCasesExecution.HotelSearchAndValidationEvents.executor": "Run",
+    "TestNG.TestCasesExecution.executor": "Run",
     "TestNG.TestCasesExecution.searchFlightByDestinationAndDate.executor": "Run",
     "TestNG.TestCasesExecution.searchFlightByDestinationDateAndClass.executor": "Run",
     "git-widget-placeholder": "main",
@@ -61,11 +67,18 @@
       <recent name="pageEvents" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestCasesExecution.searchFlightByDestinationDateAndClass">
-    <configuration name="C:/Users/Jacob Ndifreke/Desktop/Test Automation Task/AmazonCheckoutFrameworkTask/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestCasesExecution">
+    <configuration name="TestCasesExecution" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AmazonCheckoutFramework" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="qa.tests.TestCasesExecution" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -146,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestCasesExecution" />
         <item itemvalue="TestNG.TestCasesExecution.searchFlightByDestinationDateAndClass" />
         <item itemvalue="TestNG.TestCasesExecution.searchFlightByDestinationAndDate" />
         <item itemvalue="TestNG.TestCasesExecution.CarRentalPageEvents" />
         <item itemvalue="TestNG.TestCasesExecution.HotelSearchAndValidationEvents" />
-        <item itemvalue="TestNG.C:/Users/Jacob Ndifreke/Desktop/Test Automation Task/AmazonCheckoutFrameworkTask/testng.xml" />
       </list>
     </recent_temporary>
   </component>

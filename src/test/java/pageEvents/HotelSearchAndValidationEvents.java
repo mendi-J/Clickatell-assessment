@@ -31,7 +31,7 @@ public class HotelSearchAndValidationEvents {
         // This Assertion is used to validate the search result
         WebElement searchResult = ele.getWebElement("XPATH", HotelSearchAndValidationElements.validateSearchName);
         String actualText = searchResult.getText();
-        String expectedText = "Eko Hotel Main Building";
+        String expectedText = "Popular among travelers";
         Assert.assertEquals(actualText, expectedText, "The search result does not match the expected value.");
 
         ele.getWebElement("XPATH", HotelSearchAndValidationElements.bookReservation).click();
